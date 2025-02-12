@@ -1,0 +1,13 @@
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-groq
+streamlit
+nltk
+PyMuPDF
+unstructured
+unstructured[pdf]
+langchain-text-splitters
+sentence-transformers
+huggingface
+huggingface-hub
